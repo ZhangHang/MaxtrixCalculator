@@ -3,4 +3,4 @@
 这是个适用于 Windows 8 的 Windows Store App。
 
 
-<img width="800" src="Screenshot.png"/>
+<img width="800" src="screenShot.png"/>
